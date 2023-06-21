@@ -1,0 +1,193 @@
+* {
+  padding: o;
+  margin: 0;
+  font-family: sans-serif;
+}
+.nav{display: flex;
+	position: absolute;
+	letter-spacing: 2px;
+	width: 84%px;
+	font-size: 12px;
+	margin-left: -23px;
+	margin-top: -12px;
+	padding: 20px 0;
+	align-items: center;
+	justify-content: space-between;
+}
+.nav ul{word-spacing: 10px;
+	list-style: none;
+
+}
+.nav ul li{margin-left: 0px;
+	width: 40px;
+	color: grey;
+	display: inline-block;
+	border-spacing: 10px;
+	
+}
+.nav ul li a{
+	color: black;
+	text-decoration: none;
+	font-weight: bolder;
+	letter-spacing: 1px;
+}
+.nav ul li a:hover{
+	color: wheat;
+}
+
+h1{ padding: 30px;
+	margin-top: 2px;
+border-color: black;
+	color: papayawhip;
+	font-size: 60px;:;
+	margin-left: 375px;
+  position: absolute;
+  letter-spacing: 1px;
+}
+
+h1 strong a{ color: papayawhip;
+text-decoration: none; }
+
+h4{font-size: 23px;
+	margin-top: 66px;
+	margin-left: 767px;
+  position: absolute;
+  letter-spacing: 1px;
+font-weight: bolder;}
+
+h4 a{text-decoration: none;
+color: dimgrey;
+}
+
+h6{margin-left: 555px;
+	position: absolute;
+	margin-top: 96px;
+	position: absolute;
+	letter-spacing: 3px;
+	width: 500px;
+}
+.ul button{ width: 100px;
+	height: 30px;
+	background-color: black;
+	border-radius: 80px;
+	position: absolute;
+margin-left:163px;
+}
+.ul button a{
+	color: grey;
+	letter-spacing: 2px;
+	margin-left: -26px;
+	margin-top: 0px;
+	text-decoration: none;
+}
+.ul button a:hover{
+	color: white;
+}
+
+body {
+  background-image: url(imago.jpg);
+  background-size: cover;
+	letter-spacing: 5px;
+	}
+
+.ul{margin-top: 10px;
+	width: 100px0px;
+	margin-left: 1000px;
+	color: whitesmoke;
+	font-size: 10px;
+	position: absolute;
+}
+.ul a{color: ghostwhite;
+	position: absolute;
+}
+
+
+.login-form {
+	border-radius: 20px;
+	margin-top: 165px;
+	width: 350px;
+	height: 360px;
+	top: 25px;
+	left: 450px;
+	transform: translate(-50%, -50%px);
+	position: absolute;
+	color: #fff;
+	line-height: 0px;
+  background-color: rgba(41, 39, 39, 0.3);
+  box-shadow: 0 5px 30px black;
+}
+.login-form input
+{margin-top: 40px;
+	margin-left: 25px;
+	font-size: 16px;
+background-color: rgba(10, 20, 20, 0.5);
+	width: 80%;
+padding: 15px 7px;
+border: 0px;
+outline: none;
+border-radius: 100px;
+color: whitesmoke;
+text-decoration-color: whitesmoke;
+}
+.login-form button{
+	width: 100px;
+	height: 25px;
+	margin-left: 20px;
+	margin-top: 30px;
+	font-size: 13px;
+	font font-weight: medium;
+	border-radius: 100px;
+	background-color: transparent;
+	color: grey;
+	border-color: grey;
+}
+.login-form button a{
+	margin-left: -17px;
+	margin-top: -5px;	text-decoration: none;
+
+}
+.login-form p a{
+	width: 244px;
+	text-decoration: none;
+	margin-left: -15px;
+
+}
+
+.login-form p{
+	color: silver;
+	font-size: 2px;
+	margin-left: 218px;
+	margin-top: -12px;
+	letter-spacing: 2px;
+}
+
+.login-form a{
+	font-size: 11px;
+	letter-spacing: 2px;
+	margin-bottom: 20px;
+	margin-left: 32px;
+color: whitesmoke;
+position: absolute;
+}
+.sign {font-size: 11px;
+	position: absolute;
+	color: lightyellow;
+margin-top: 480PX;
+letter-spacing: 1px;
+margin-left: 500px;
+width: 500px;
+}
+.sign a{color: lightgrey;
+	text-decoration: none;
+	margin-left: 5px;
+	position: absolute;
+}
+.sign input {position: absolute;
+	margin-left: 53PX;
+	margin-top: -27.5px;
+}
+.sign p{position: absolute;
+	color: lightgrey;
+margin-left: 70px;
+margin-top: -27px;}
+
